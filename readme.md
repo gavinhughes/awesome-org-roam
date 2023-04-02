@@ -24,7 +24,7 @@
 ## Tools
 
 - [PKMigrator](https://github.com/AnweshGangula/PKMigrator) - Roam Research markdown export to Org Roam files.
-- [dendroam](https://github.com/vicrdguez/dendroam) - Attempt of bringing to bring to emacs some [Dendron](https://github.com/dendronhq/dendron) features hand in hand with [Org Roam](https://github.com/org-roam/org-roam).
+- [dendroam](https://github.com/vicrdguez/dendroam) - Attempt to bring some [Dendron](https://github.com/dendronhq/dendron) features hand in hand with [Org Roam](https://github.com/org-roam/org-roam).
 - [md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
 - [org-roam-capture-extension](https://github.com/xiliuya/org-roam-capture-extension) - A Chrome and Firefox extension facilitating org-capture in emacs.
 - [org-roam-ql](https://github.com/ahmed-shariff/org-roam-ql) - An org-ql interface for org-roam.
